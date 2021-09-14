@@ -5,7 +5,7 @@ WaveAnimation is a SwiftUI project that reproduces the waveform effect seen in S
 
 It is a SwiftUI adaptation of the amazing [SwiftSiriWaveformView](https://github.com/alankarmisra/SwiftSiriWaveformView) by [Alankar Misra](https://github.com/alankarmisra) which is an adaptation of the amazing [SCSiriWaveformView](https://github.com/stefanceriu/SCSiriWaveformView) by [Stefan Ceriu](https://github.com/stefanceriu).
 
-![Example](https://ishouldgotosleep.com/assets/images/blog/speech-wave/moving-waves.gif)
+![Example](https://ishouldgotosleep.com/content/images/2021/03/moving-waves.gif)
 
 
 ## Usage 
