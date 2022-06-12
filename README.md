@@ -5,23 +5,23 @@ WaveAnimation is a SwiftUI project that reproduces the waveform effect seen in S
 
 It is a SwiftUI adaptation of the amazing [SwiftSiriWaveformView](https://github.com/alankarmisra/SwiftSiriWaveformView) by [Alankar Misra](https://github.com/alankarmisra) which is an adaptation of the amazing [SCSiriWaveformView](https://github.com/stefanceriu/SCSiriWaveformView) by [Stefan Ceriu](https://github.com/stefanceriu).
 
-![Example](https://ishouldgotosleep.com/images/posts/moving-waves.gif)
+![Example](https://volpato.dev/images/posts/moving-waves.gif)
 
 
 ## Usage 
 
-See a [short article](https://ishouldgotosleep.com/tutorials/speech-wave-visualization-in-swiftui/) about it.
+See a [short article](https://volpato.dev/posts/speech-wave-visualization-in-swiftui/) about it.
 
 ## Author
 
-[Michele Volpato](https://ishouldgotosleep.com)
+[Michele Volpato](https://volpato.dev)
 
 ## License
 
 This project is available under the MIT license. See the LICENSE file for more info.
 
 ```
-Copyright (c) 2021 Michele Volpato https://ishouldgotosleep.com
+Copyright (c) 2021 Michele Volpato https://volpato.dev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
